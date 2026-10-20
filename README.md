@@ -11,8 +11,9 @@
 | Redes de Computadores I                            | 2026.1       | -      | [INE5414](https://github.com/sofiagazolla/INE5414)    |
 | Teoria da Computação                             | 2026.1       | -      | [INE5415](https://github.com/sofiagazolla/INE5415)    |
 | Engenharia de Software                             | 2026.1       | Java      | [INE5417](https://github.com/sofiagazolla/INE5417)    |
+| Probabilidade e Estatística     | 2026.2       | Python      | [INE5405](https://github.com/sofiagazolla/INE5412)    |
 | Sistemas Operacionais I      | 2026.2       | C      | [INE5412](https://github.com/sofiagazolla/INE5412)    |
 | Paradigmas de Programação      | 2026.2       | Haskell, Prolog      | [INE5416](https://github.com/sofiagazolla/INE5416)    |
 | Linguagens Formais e Compiladores      | 2026.2       | Python      | [INE5421](https://github.com/sofiagazolla/INE5421)    |
-
+|  Reconhecimento de Padrões      | 2026.2       | -      | [INE5443](https://github.com/sofiagazolla/INE5443)    |
 
